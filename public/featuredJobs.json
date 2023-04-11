@@ -87,5 +87,47 @@
     "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
     "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
     "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
-    }
+    },
+    {
+    "id": "6433fb4567899e61067d9",
+    "index": 5,
+    "jobName": "Front End Developer",
+    "jobCategory": "AirBnb",
+    "jobLocation": "Remote",
+    "jobType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "salary": "100k - 150k",
+    "jobTitle": "Software Engineer",
+    "jobDescription": "Google is seeking highly skilled and motivated Software Engineers to join our cutting-edge technology teams. As a Software Engineer at Google, you will be responsible for designing, developing, and maintaining software applications and systems that power Google's search engine, advertising platforms, cloud services, and more. You will work collaboratively with cross-functional teams to solve complex technical challenges, create innovative solutions, and contribute to the advancement of the field of computer science.",
+    "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+    "educationalRequirements": "Bachelor degree from any reputational University",
+    "experience": "2-5 years in this field",    
+    "companyLogo": "https://i.ibb.co/Dgg9CBQ/Group-10021.png",
+    "phone": "345678789",
+    "email": "info@gmail.com",
+    "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
+    "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
+    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
+    },
+    {
+        "id": "6433fb6569168c89e61067d9",
+        "index": 4,
+        "jobName": "Technical Database Engineer",
+        "jobCategory": "Google LLC",
+        "jobLocation": "Remote",
+        "jobType": "Full Time",
+        "location": "Dhaka, Bangladesh",
+        "salary": "100k - 150k",
+        "jobTitle": "Software Engineer",
+        "jobDescription": "Google is seeking highly skilled and motivated Software Engineers to join our cutting-edge technology teams. As a Software Engineer at Google, you will be responsible for designing, developing, and maintaining software applications and systems that power Google's search engine, advertising platforms, cloud services, and more. You will work collaboratively with cross-functional teams to solve complex technical challenges, create innovative solutions, and contribute to the advancement of the field of computer science.",
+        "jobResponsibility": "Collaborating with cross-functional teams: UI/UX designers often work closely with other teams, including product management, engineering, and marketing, to ensure that the user interface is aligned with business and technical requirements. You will need to be able to effectively communicate your design ideas and gather feedback from other team members.",
+        "educationalRequirements": "Bachelor degree from any reputational University",
+        "experience": "2-5 years in this field",    
+        "companyLogo": "https://i.ibb.co/gvQTsCj/google-1-1-1.png",
+        "phone": "345678789",
+        "email": "info@gmail.com",
+        "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
+        "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
+        "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
+        }
 ]
