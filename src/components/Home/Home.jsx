@@ -32,7 +32,7 @@ const Home = () => {
                 <p className='text-gray-500'>Explore thousands of job opportunities with all the information you need. Its your future. Come find it. Manage all your job application from start to finish.</p>
                 <button className='home-buttons'>Get Started</button>
                 </div>
-                <div>
+                <div className='w-full'>
                     <img src="/src/assets/All Images/P3OLGJ1 copy 1.png" alt="" />
                 </div>
                 </div>
