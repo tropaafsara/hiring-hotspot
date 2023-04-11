@@ -6,4 +6,8 @@
           * Blog : Q&A 
           * Applied Jobs : when we click on apply now we can see Applied job in this feature
 
+## Roadmap
 
+- Additional browser support
+
+- Add more integrations
