@@ -15,32 +15,34 @@ import JobDetails from './components/JobDetails';
 import { productsAndCartData } from './loaders/getCart&ProductData';
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: '/',
     element: <App></App>,
     errorElement: <ErrorPage></ErrorPage>,
     children: [
       {
-        path: "/",
+        path: '/',
         element: <Home></Home>,
         loader: ()=> fetch('featuredJobs.json'),
         
       },
+      
       {
-        path: "/details/:id",
+        path: '/details/:id',
         element: <JobDetails></JobDetails>,
         loader: ({params})=> fetch('/featuredJobs.json'),
       },
       {
-        path: "/statistics",
-        element: <Statistics></Statistics>,
-      },
-      {
-        path: "/appliedjobs",
+        path: '/appliedjobs',
         element: <AppliedJobs></AppliedJobs>,
         loader: productsAndCartData,
       },
       {
-        path: "/blog",
+        path: '/statistics',
+        element: <Statistics></Statistics>,
+      },
+      
+      {
+        path: '/blog',
         element: <Blog></Blog>,
       }
     ]
