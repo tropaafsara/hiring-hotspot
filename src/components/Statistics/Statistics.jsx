@@ -37,17 +37,12 @@ const Statistics = () => {
             "id": "6",
             "assignment_name": "A7",
             "assignment_number": "40"
-        },
-        {
-            "id": "7",
-            "assignment_name": "A8",
-            "assignment_number": "60"
         }
     ];
     return (
         <div>
             <h1 className='mt-5 mb-5'>Assignment Marks in Scatter Chart</h1>
-<ResponsiveContainer width="100%" height={400}>
+<ResponsiveContainer width="100%" height={500}>
         <ScatterChart
           margin={{
             top: 20,
