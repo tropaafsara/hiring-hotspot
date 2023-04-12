@@ -44,7 +44,10 @@
     "email": "info@gmail.com",
     "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh" ,
     "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
-    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png"
+    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png",
+    "jobTitleLogo":"https://i.ibb.co/4mztg9G/Frame-1.png",
+    "phoneLogo":"https://i.ibb.co/Dftv6yP/Frame-2.png",
+    "emailLogo":"https://i.ibb.co/nBQg7zT/Frame-3.png"
     },
     {
     "id": "6433fb650ad7bee04aeb3094",
@@ -65,7 +68,10 @@
     "email": "info@gmail.com",
     "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
     "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
-    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png"
+    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png",
+    "jobTitleLogo":"https://i.ibb.co/4mztg9G/Frame-1.png",
+    "phoneLogo":"https://i.ibb.co/Dftv6yP/Frame-2.png",
+    "emailLogo":"https://i.ibb.co/nBQg7zT/Frame-3.png"
     },
     {
     "id": "6433fb6569168c89e61067d9",
@@ -86,7 +92,10 @@
     "email": "info@gmail.com",
     "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
     "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
-    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
+    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png",
+    "jobTitleLogo":"https://i.ibb.co/4mztg9G/Frame-1.png",
+    "phoneLogo":"https://i.ibb.co/Dftv6yP/Frame-2.png",
+    "emailLogo":"https://i.ibb.co/nBQg7zT/Frame-3.png"
     },
     {
     "id": "6433fb4567899e61067d9",
@@ -107,7 +116,10 @@
     "email": "info@gmail.com",
     "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
     "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
-    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
+    "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png",
+    "jobTitleLogo":"https://i.ibb.co/4mztg9G/Frame-1.png",
+    "phoneLogo":"https://i.ibb.co/Dftv6yP/Frame-2.png",
+    "emailLogo":"https://i.ibb.co/nBQg7zT/Frame-3.png"
     },
     {
         "id": "6433fb6569168c89e61067d9",
@@ -128,6 +140,9 @@
         "email": "info@gmail.com",
         "address": "Dhanmondi, Sukrabad, Dhaka, Bangladesh",
         "locationLogo": "https://i.ibb.co/yQbJWw5/Frame-4.png",
-        "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png" 
+        "salaryLogo":"https://i.ibb.co/gJ8gkBp/Frame.png",
+        "jobTitleLogo":"https://i.ibb.co/4mztg9G/Frame-1.png",
+    "phoneLogo":"https://i.ibb.co/Dftv6yP/Frame-2.png",
+    "emailLogo":"https://i.ibb.co/nBQg7zT/Frame-3.png"
         }
 ]
