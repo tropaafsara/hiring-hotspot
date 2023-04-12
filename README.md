@@ -1,6 +1,8 @@
 # b7a9-career-hub-tropaafsara
 
-## Roadmap
+##Live Netlify Link : https://verdant-rugelach-6d3db4.netlify.app
+
+## Features
 
 - HomePage : Job Category List, Featured Jobs sections are completed by using json file.
 
