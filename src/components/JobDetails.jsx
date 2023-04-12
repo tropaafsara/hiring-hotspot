@@ -21,6 +21,9 @@ const JobDetails = () => {
         experience,salary,jobTitle,phone,email,address,salaryLogo,jobTitleLogo,phoneLogo,emailLogo,locationLogo} = data2;
     
     return (
+        <div>
+            <h1 >Job Details</h1>
+            
         <div className='flex gap-8 mt-5 py-5'>
             
            
@@ -68,6 +71,8 @@ const JobDetails = () => {
            
            
         </div>
+        </div>
+        
     );
 };
 
