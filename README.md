@@ -1,6 +1,6 @@
 # b7a9-career-hub-tropaafsara
 
-##Live Netlify Link : https://verdant-rugelach-6d3db4.netlify.app
+* Live Netlify Link : https://verdant-rugelach-6d3db4.netlify.app
 
 ## Features
 
